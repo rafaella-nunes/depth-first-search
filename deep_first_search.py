@@ -20,5 +20,5 @@ def deep_first_search(visited, graph, node):
         for neighbour in graph[node]: # Para cada vizinho do nó atual, a função é chamada novamente
             deep_first_search(visited, graph, neighbour)
 
-print("Pecorrendo o grafo")
+print("Percorrendo o grafo")
 deep_first_search(visited, graph, 'V1')
