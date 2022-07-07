@@ -14,3 +14,6 @@ Software necessário: Todo o projeto está rodando em Windows 10 Pro, versão 21
 Disponibilidade: https://github.com/rafaella-nunes/depth-first-search.  
 Custo: Todas as ferramentas utilizadas são gratuitas.
 
+## Complexidade do algoritmo:
+Complexidade de tempo em um grafo é O(V+E), sendo V o número de vértices e E o número de arestas.
+Em caso de ser aplicado a uma árvore, a complexidade de tempo é O(V), sendo V o número de vértices.
